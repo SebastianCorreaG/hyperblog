@@ -5,3 +5,7 @@ Y mi edad es 27 años
 Y naci en Colombia
 
 Esta aprendiendo git
+
+
+La historia de esta persona se centra en el desarrollo de soluciones informaticas
+Entendiendo por esto.
